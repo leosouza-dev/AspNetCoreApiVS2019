@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreApiVS2019", "AspNetCoreApiVS2019\AspNetCoreApiVS2019.csproj", "{6A6AC5C1-BC4D-4AAC-AEDD-79F7770C5990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6AC5C1-BC4D-4AAC-AEDD-79F7770C5990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6AC5C1-BC4D-4AAC-AEDD-79F7770C5990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6AC5C1-BC4D-4AAC-AEDD-79F7770C5990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6AC5C1-BC4D-4AAC-AEDD-79F7770C5990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063DA443-BA69-441F-BD43-297D68B0FC2E}
+	EndGlobalSection
+EndGlobal
